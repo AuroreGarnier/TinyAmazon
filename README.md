@@ -1,15 +1,13 @@
 # TinyAmazon
 
 # Auteur
-GARNIER Aurore LP11
+GARNIER Aurore LP1A
 
 # Installation
-npm install bower
-bower install (ou extraire le zip bower_components)
+npm install bower ou bower install (ou extraire le zip bower_components)
 
 # Lancement de l'application
-python3 -m http.server 
+Commande python3 -m http.server à lancer dans l'invit de commande en se mettant dans le dossier de l'application
 
-#Application
-Affichage des éléments de la base
-Suppression et modification possible 
+# Application
+Affichage de films, on peut les consulter, les modifier et les supprimer
